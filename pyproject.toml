@@ -3,7 +3,7 @@ name = "roci"
 version = "0.2.1"
 description = "no longer a work horse"
 authors = ["Andrew Blance <andrewblance@live.co.uk>"]
-license = "MIT"
+license = "BSD"
 
 readme = "README.md"
 
