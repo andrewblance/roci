@@ -1,8 +1,20 @@
 [tool.poetry]
 name = "roci"
-version = "0.2.0"
+version = "0.2.1"
 description = "no longer a work horse"
 authors = ["Andrew Blance <andrewblance@live.co.uk>"]
+license = "MIT"
+
+readme = "README.md"
+
+repository = "https://github.com/andrewblance/roci"
+
+keywords = ["packaging", "project templates", "projects", "roci"]
+
+classifiers = [
+    "Programming Language :: Python",
+    "Topic :: Software Development"
+]
 
 [tool.poetry.dependencies]
 python = "^3.6"
